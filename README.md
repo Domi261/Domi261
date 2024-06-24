@@ -11,7 +11,11 @@ My repositories on <b> GitHub <b> are testitments of me starting as a beginner a
 ✨ Follow me on my journey ✨
 
 <em> <b> "Solo la familia" <b> <em>
-
+  ____  ___  ____    ____ ___ ____  
+ / ___|/ _ \|  _ \  |  _ \_ _|  _ \ 
+| |  _| | | | | | | | | | | || | | |
+| |_| | |_| | |_| | | |_| | || |_| |
+ \____|\___/|____/  |____/___|____/ 
 
 
 
