@@ -1,4 +1,4 @@
-<h1> Hello there ( •̀ ω •́ )✧ </h1>
+<h1> Hello there (ﾉ*･ω･)ﾉ✧ </h1>
 
 My name is <em> Dominick </em> 
 
