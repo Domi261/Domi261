@@ -3,11 +3,6 @@
 My name is <em> Dominick </em> 
 
 I'm 20 years old and I like to code ( ͡° ͜ʖ ͡°) 
-  ____  ___  ____    ____ ___ ____  
- / ___|/ _ \|  _ \  |  _ \_ _|  _ \ 
-| |  _| | | | | | | | | | | || | | |
-| |_| | |_| | |_| | | |_| | || |_| |
- \____|\___/|____/  |____/___|____/ 
 
 My current focus is on Web Developing and Scripting 🐧
 
@@ -16,11 +11,6 @@ My repositories on <b> GitHub <b> are testitments of me starting as a beginner a
 ✨ Follow me on my journey ✨
 
 <em> <b> "Solo la familia" <b> <em>
-  ____  ___  ____    ____ ___ ____  
- / ___|/ _ \|  _ \  |  _ \_ _|  _ \ 
-| |  _| | | | | | | | | | | || | | |
-| |_| | |_| | |_| | | |_| | || |_| |
- \____|\___/|____/  |____/___|____/ 
 
 
 
