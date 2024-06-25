@@ -2,7 +2,7 @@
 
 My name is <em> Dominick </em> 
 
-I'm 20 years old and I like A$$ ( ͡° ͜ʖ ͡°) 
+I'm 20 years old and I like coding ( ͡° ͜ʖ ͡°) 
 
 My current focus is on Web Developing and Scripting 🐧
 
