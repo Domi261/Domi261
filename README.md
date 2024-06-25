@@ -10,7 +10,9 @@ My repositories on <b> GitHub <b> are testitments of me starting as a beginner a
 
 ✨ Follow me on my journey ✨
 
-<em> <b> "Solo la familia" <b> <em>
+<em> <b> "Solo la familia" <b> <em> 
+
+![alt text](https://github.com/[Domi261]/[Domi261]/blob/[main]/image.jpg?raw=true)
 
 
 
