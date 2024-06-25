@@ -1,8 +1,8 @@
-<h1> Hello there (ﾉ*･ω･)ﾉ✧ </h1>
+<h1> Hello there  *^____^*  </h1>
 
 My name is <em> Dominick </em> 
 
-I'm 20 years old and I like to code ( ͡° ͜ʖ ͡°) 
+I'm 20 years old and I coding ( ͡° ͜ʖ ͡°) 
 
 My current focus is on Web Developing and Scripting 🐧
 
@@ -10,13 +10,12 @@ My repositories on <b> GitHub <b> are testitments of me starting as a beginner a
 
 ✨ Follow me on my journey ✨
 
-<em> <b> "Solo la familia" <b> <em> 
+<em> <b> Long live z61 <b> <em> 
 
 
 
 
-
-
+![alt text](https://github.com/Domi261/Domi261/blob/main/12.png?raw=true)
 
 
 
