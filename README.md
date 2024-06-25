@@ -12,7 +12,7 @@ My repositories on <b> GitHub <b> are testitments of me starting as a beginner a
 
 <em> <b> "Solo la familia" <b> <em> 
 
-![alt text](https://github.com/[Domi261]/[Domi261]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/[Domi261]/[Domi261]/blob/[main]/1.png?raw=true)
 
 
 
