@@ -3,7 +3,7 @@
 
 
 
-![alt text](https://github.com/Domi261/Domi261/blob/main/12.png?raw=true)
+![alt text](https://github.com/Domi261/Domi261/blob/main/gogeta.jpg?raw=true)
 
 
 
