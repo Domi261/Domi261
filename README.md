@@ -1,15 +1,3 @@
-<h1> Hello there  *^____^*  </h1>
-
-My name is <em> Dominick </em> 
-
-I'm 21 years old and I like coding ( ͡° ͜ʖ ͡°) 
-
-My current focus is on Web Developing and Scripting 🐧
-
-My repositories on <b> GitHub <b> are testitments of me starting as a beginner and becoming a great coder.
-
-✨ Follow me on my journey ✨
-
 <em> <b> Long live z61 <b> <em> 
 
 
